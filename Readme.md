@@ -7,6 +7,6 @@
 
 ## 2. 软件基础
 
-### 2.1 CAN
+### 2.1 CAN卡
 
-
+使用ZLG USBCANFD 200U和其CAN SOCKETsdk
